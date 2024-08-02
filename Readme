@@ -1,4 +1,4 @@
-Logement Service
+API de gestion de logment
 
 **Fonctionalité & entitées**
 Gestion des utilisateurs et des roles : Users;
@@ -7,7 +7,6 @@ Gestion des proprietés ou biens : Properties;
 Gestion des réservation : reservation;
 Gestion des propriétaires ou locataires : Customers;
 Gestion des paiments : Paiments;
-Gestion des travaux et des reparations : Travaux;
 Gestion des documents; documents;
 Gestion des alerts et des notifications ; alerts
 Gestion des statistiques et des rapports ; stats
@@ -20,8 +19,6 @@ Object-Relational-Mapping (ORM) : Hibernate, Spring Data JPA
 Sécurité : Spring Security
 Token : JWT
 API REST : Spring Web
-Interface d'utilisteur : JS (React.js) HTML ET CSS (Bootstrap)
 Gestion des dépendances : Maven
 Test : JUnit
-Serveur d'application Docker
 Gestion des requetes : Axios, CORS POLICY
